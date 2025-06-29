@@ -446,7 +446,7 @@ GROUP BY c.id, c.nombre;
 
 ---
 
-**Desarrollado por**: [Sinuhé Vidals Sibaja]  
+**Desarrollado por**: [Sinuhé Vidals Sibaja y Samantha Betanzo Bolaños]  
 **Universidad**: [Universidad Tenológica de la Mixteca]  
 **Materia**: Base de Datos - Implementación SQL  
 **Fecha**: [28 de Junio del 2025]
