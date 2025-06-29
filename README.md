@@ -18,7 +18,7 @@ Demostrar el uso de bases de datos relacionales (MySQL) implementando caracterí
 ## 🗂️ Estructura del Proyecto
 
 ```
-CARAMELITOAPIMONGO/
+CARAMELITOAPI/
 ├── 📄 buscador.html          # Interfaz web para búsquedas
 ├── 🐳 docker-compose.yml     # Orquestación de contenedores
 ├── 🐳 Dockerfile            # Configuración del contenedor Python
@@ -50,7 +50,7 @@ CARAMELITOAPIMONGO/
 1. **Clonar el repositorio**
    ```bash
    git clone <url-del-repositorio>
-   cd CARAMELITOAPIMONGO
+   cd CARAMELITOAPI
    ```
 
 2. **Levantar los servicios**
